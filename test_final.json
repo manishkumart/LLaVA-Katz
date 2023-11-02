@@ -1,0 +1,1278 @@
+[
+    {
+        "id": "week_01_page_001",
+        "image": ".\\Images\\week_01\\week_01_page_001.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you summarise this slide?"
+            },
+            {
+                "from": "gpt",
+                "value": "The slide introduces AIM 5005 Machine Learning course, with the first lecture focusing on an introduction to machine learning. The instructor is Dr. Youshan Zhang."
+            },
+            {
+                "from": "human",
+                "value": "Who is the instructor for this course?"
+            },
+            {
+                "from": "gpt",
+                "value": "The instructor is Dr. Youshan Zhang."
+            },
+            {
+                "from": "human",
+                "value": "What is the course code?"
+            },
+            {
+                "from": "gpt",
+                "value": "The course code is AIM 5005."
+            },
+            {
+                "from": "human",
+                "value": "What is the focus of Lecture 1?"
+            },
+            {
+                "from": "gpt",
+                "value": "Lecture 1 focuses on an introduction to machine learning."
+            },
+            {
+                "from": "human",
+                "value": "What is the date of the lecture?"
+            },
+            {
+                "from": "gpt",
+                "value": "The lecture date is 01/18/2023."
+            },
+            {
+                "from": "human",
+                "value": "Is this the first lecture?"
+            },
+            {
+                "from": "gpt",
+                "value": "Yes, it is Lecture 1."
+            },
+            {
+                "from": "human",
+                "value": "Can you describe the topic of the course?"
+            },
+            {
+                "from": "gpt",
+                "value": "The course topic is Machine Learning."
+            },
+            {
+                "from": "human",
+                "value": "From which university is this course?"
+            },
+            {
+                "from": "gpt",
+                "value": "The course is from Keyuan University, as indicated by the university's logo."
+            },
+            {
+                "from": "human",
+                "value": "Brainstorm some potential topics covered in a machine learning introduction."
+            },
+            {
+                "from": "gpt",
+                "value": "Basics of algorithms, supervised vs unsupervised learning, overfitting, training and testing data."
+            },
+            {
+                "from": "human",
+                "value": "In what format is this content presented?"
+            },
+            {
+                "from": "gpt",
+                "value": "The content is presented as a lecture slide."
+            },
+            {
+                "from": "human",
+                "value": "Can you explain the slide?"
+            },
+            {
+                "from": "gpt",
+                "value": "As you guys have probably already noticed that I'm currently an assistant professor at our AI program."
+            }
+        ]
+    },
+    {
+        "id": "week_02_page_001",
+        "image": ".\\Images\\week_02\\week_02_page_001.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you summarise this slide?"
+            },
+            {
+                "from": "gpt",
+                "value": "The slide introduces 'AIM 5005 Machine Learning', mentioning Lecture 2's focus on basic math recap & data preprocessing. Dr. Youshan Zhang is the instructor."
+            },
+            {
+                "from": "human",
+                "value": "Who is the instructor for this course?"
+            },
+            {
+                "from": "gpt",
+                "value": "The instructor for this course is Dr. Youshan Zhang."
+            },
+            {
+                "from": "human",
+                "value": "What is the lecture's main focus?"
+            },
+            {
+                "from": "gpt",
+                "value": "The lecture's main focus is on basic math recap and data preprocessing."
+            },
+            {
+                "from": "human",
+                "value": "Is this the first lecture of the course?"
+            },
+            {
+                "from": "gpt",
+                "value": "No, this is Lecture 2 of the course."
+            },
+            {
+                "from": "human",
+                "value": "Which university does the emblem on the slide belong to?"
+            },
+            {
+                "from": "gpt",
+                "value": "The emblem on the slide belongs to 'PENYUAN UNIVERSITY'."
+            },
+            {
+                "from": "human",
+                "value": "What might be the content of the next lecture?"
+            },
+            {
+                "from": "gpt",
+                "value": "The next lecture might delve deeper into data preprocessing or introduce a new machine learning topic."
+            },
+            {
+                "from": "human",
+                "value": "On what date was this lecture held?"
+            },
+            {
+                "from": "gpt",
+                "value": "This lecture was held on 01/25/2023."
+            },
+            {
+                "from": "human",
+                "value": "Propose a title for the next lecture."
+            },
+            {
+                "from": "gpt",
+                "value": "Advanced Data Preprocessing & Intro to Algorithms"
+            },
+            {
+                "from": "human",
+                "value": "Is this a beginner-level course?"
+            },
+            {
+                "from": "gpt",
+                "value": "Given it's titled 'AIM 5005' and already discussing data preprocessing by Lecture 2, it's likely intermediate."
+            },
+            {
+                "from": "human",
+                "value": "What could be a prerequisite for this course?"
+            },
+            {
+                "from": "gpt",
+                "value": "A prerequisite could be basic knowledge in mathematics, statistics, and introductory machine learning."
+            },
+            {
+                "from": "human",
+                "value": "Can you explain the slide?"
+            },
+            {
+                "from": "gpt",
+                "value": "Let's get started for our today's class. Again, for that 5-piece interview, it doesn't matter if you didn't finish all of it. It's fine. But once you finish the machine learning class, make sure you are able to do it within, like, the 30 or 20 minutes. It is like a real kind of practice of the coding problem from the interview."
+            }
+        ]
+    },
+    {
+        "id": "week_03_page_001",
+        "image": ".\\Images\\week_03\\week_03_page_001.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you summarise this slide?"
+            },
+            {
+                "from": "gpt",
+                "value": "The slide is an introduction to Lecture 2 of AIM 5005 Machine Learning, focusing on Basic Math Recap & Data Preprocessing. It's taught by Dr. Youshan Zhang."
+            },
+            {
+                "from": "human",
+                "value": "Who is the instructor for this course?"
+            },
+            {
+                "from": "gpt",
+                "value": "The instructor for this course is Dr. Youshan Zhang."
+            },
+            {
+                "from": "human",
+                "value": "Which lecture is this?"
+            },
+            {
+                "from": "gpt",
+                "value": "This is Lecture 2."
+            },
+            {
+                "from": "human",
+                "value": "What are the main topics of this lecture?"
+            },
+            {
+                "from": "gpt",
+                "value": "The main topics are Basic Math Recap & Data Preprocessing."
+            },
+            {
+                "from": "human",
+                "value": "Is this the first lecture on Data Preprocessing?"
+            },
+            {
+                "from": "gpt",
+                "value": "No, it's the second lecture on Data Preprocessing as indicated by the (2)."
+            },
+            {
+                "from": "human",
+                "value": "What course does this slide pertain to?"
+            },
+            {
+                "from": "gpt",
+                "value": "This slide pertains to the course AIM 5005 Machine Learning."
+            },
+            {
+                "from": "human",
+                "value": "Is there a specific focus on math in this lecture?"
+            },
+            {
+                "from": "gpt",
+                "value": "Yes, there's a focus on Basic Math Recap in this lecture."
+            },
+            {
+                "from": "human",
+                "value": "Which university is associated with this lecture?"
+            },
+            {
+                "from": "gpt",
+                "value": "The university associated with this lecture is not explicitly named, but there is a university logo on the slide."
+            },
+            {
+                "from": "human",
+                "value": "What date was this lecture given?"
+            },
+            {
+                "from": "gpt",
+                "value": "This lecture was given on 02/01/2023."
+            },
+            {
+                "from": "human",
+                "value": "Is this course specifically about Data Preprocessing?"
+            },
+            {
+                "from": "gpt",
+                "value": "No, the course is about Machine Learning, but Data Preprocessing is one of the topics covered."
+            },
+            {
+                "from": "human",
+                "value": "Can you explain the slide?"
+            },
+            {
+                "from": "gpt",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "week_04_page_001",
+        "image": ".\\Images\\week_04\\week_04_page_001.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you summarise this slide?"
+            },
+            {
+                "from": "gpt",
+                "value": "The slide introduces Lecture 4 of the AIM 5005 Machine Learning course, covering Logistic regression model & Least Squares, instructed by Dr. Youshan Zhang on 02/08/2023."
+            },
+            {
+                "from": "human",
+                "value": "Who is the instructor for this lecture?"
+            },
+            {
+                "from": "gpt",
+                "value": "The instructor for this lecture is Dr. Youshan Zhang."
+            },
+            {
+                "from": "human",
+                "value": "What's the main topic of Lecture 4?"
+            },
+            {
+                "from": "gpt",
+                "value": "The main topic of Lecture 4 is 'Logistic regression model & Least Squares'."
+            },
+            {
+                "from": "human",
+                "value": "Is Logistic Regression used for classification or regression?"
+            },
+            {
+                "from": "gpt",
+                "value": "Logistic Regression is used for classification."
+            },
+            {
+                "from": "human",
+                "value": "What is the significance of Least Squares in regression?"
+            },
+            {
+                "from": "gpt",
+                "value": "Least Squares is a method used to minimize the sum of squared differences between observed and estimated values."
+            },
+            {
+                "from": "human",
+                "value": "Can you suggest another regression type apart from logistic?"
+            },
+            {
+                "from": "gpt",
+                "value": "Yes, another regression type is Linear Regression."
+            },
+            {
+                "from": "human",
+                "value": "On which date was this lecture conducted?"
+            },
+            {
+                "from": "gpt",
+                "value": "The lecture was conducted on 02/08/2023."
+            },
+            {
+                "from": "human",
+                "value": "Is this the first lecture in the AIM 5005 Machine Learning course?"
+            },
+            {
+                "from": "gpt",
+                "value": "No, this is the fourth lecture in the AIM 5005 Machine Learning course."
+            },
+            {
+                "from": "human",
+                "value": "Describe the slide in a poetic way."
+            },
+            {
+                "from": "gpt",
+                "value": "In the hall of learning's ring, AIM 5005's knowledge they bring. With Logistic curves and squares so neat, Dr. Zhang makes learning a treat."
+            },
+            {
+                "from": "human",
+                "value": "How might the concept of 'Least Squares' be visualized?"
+            },
+            {
+                "from": "gpt",
+                "value": "Least Squares can be visualized as the shortest distance between data points and a fitted line on a scatter plot."
+            },
+            {
+                "from": "human",
+                "value": "Can you explain the slide?"
+            },
+            {
+                "from": "gpt",
+                "value": "So, now let's get started with this lecture with today, we're going to talk about the logistic regression model and the least squares, hopefully, we can cover all of it."
+            }
+        ]
+    },
+    {
+        "id": "week_05_page_001",
+        "image": ".\\Images\\week_05\\week_05_page_001.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you summarise this slide?"
+            },
+            {
+                "from": "gpt",
+                "value": "The slide introduces 'AIM 5005 Machine Learning', specifically Lecture 5 on 'Principal Components Analysis & Factor Analysis', taught by Dr. Youshan Zhang."
+            },
+            {
+                "from": "human",
+                "value": "Who is the instructor for this lecture?"
+            },
+            {
+                "from": "gpt",
+                "value": "The instructor for this lecture is Dr. Youshan Zhang."
+            },
+            {
+                "from": "human",
+                "value": "What topics are covered in this lecture?"
+            },
+            {
+                "from": "gpt",
+                "value": "The topics covered are 'Principal Components Analysis & Factor Analysis'."
+            },
+            {
+                "from": "human",
+                "value": "What is the date of this lecture?"
+            },
+            {
+                "from": "gpt",
+                "value": "The date of this lecture is 02/15/2023."
+            },
+            {
+                "from": "human",
+                "value": "Is this an introductory lecture on Machine Learning?"
+            },
+            {
+                "from": "gpt",
+                "value": "No, this is Lecture 5, suggesting it's not an introductory lecture."
+            },
+            {
+                "from": "human",
+                "value": "Which university is associated with this lecture?"
+            },
+            {
+                "from": "gpt",
+                "value": "The slide indicates the association with 'Plymouth University', as seen from the logo."
+            },
+            {
+                "from": "human",
+                "value": "What might be the purpose of this slide?"
+            },
+            {
+                "from": "gpt",
+                "value": "The slide serves as an introduction, providing an overview of the lecture topic, instructor, and date."
+            },
+            {
+                "from": "human",
+                "value": "How would you describe the design of the slide?"
+            },
+            {
+                "from": "gpt",
+                "value": "The slide is minimalist with a central focus on the lecture details and a prominent university logo at the top."
+            },
+            {
+                "from": "human",
+                "value": "Is there any logo present on the slide?"
+            },
+            {
+                "from": "gpt",
+                "value": "Yes, there's a logo of 'Plymouth University' at the top of the slide."
+            },
+            {
+                "from": "human",
+                "value": "Can you guess the nature of the course based on the slide?"
+            },
+            {
+                "from": "gpt",
+                "value": "Based on the slide, it seems to be an advanced course in Machine Learning, covering specialized topics."
+            },
+            {
+                "from": "human",
+                "value": "Can you explain the slide?"
+            },
+            {
+                "from": "gpt",
+                "value": "Now, do you have any questions? No. Good. Let's get a study. So, in today's lecture, we will talk about the principal component analysis, and also, I will briefly mention about the factor analysis. And I believe all of you guys should have learned something about PCA previously in Professor Pablo's course. Right? In this case, today maybe we will review the PCA in very quick fashion, and I will I will check your guys whether you really understand it or not. Okay."
+            }
+        ]
+    },
+    {
+        "id": "week_06_page_001",
+        "image": ".\\Images\\week_06\\week_06_page_001.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you summarise this slide?"
+            },
+            {
+                "from": "gpt",
+                "value": "The slide introduces Lecture 6 of the AIM 5005 Machine Learning course on Matrix Factorization. The lecture is given by Dr. Youshan Zhang on 02/22/2023."
+            },
+            {
+                "from": "human",
+                "value": "What is the course code?"
+            },
+            {
+                "from": "gpt",
+                "value": "The course code is AIM 5005."
+            },
+            {
+                "from": "human",
+                "value": "What is the topic of Lecture 6?"
+            },
+            {
+                "from": "gpt",
+                "value": "The topic of Lecture 6 is Matrix Factorization."
+            },
+            {
+                "from": "human",
+                "value": "Who is the instructor for this lecture?"
+            },
+            {
+                "from": "gpt",
+                "value": "The instructor for this lecture is Dr. Youshan Zhang."
+            },
+            {
+                "from": "human",
+                "value": "On which date was this lecture given?"
+            },
+            {
+                "from": "gpt",
+                "value": "This lecture was given on 02/22/2023."
+            },
+            {
+                "from": "human",
+                "value": "What does Matrix Factorization mean?"
+            },
+            {
+                "from": "gpt",
+                "value": "Matrix Factorization is a technique to decompose a matrix into multiple matrices that, when multiplied, approximate the original matrix."
+            },
+            {
+                "from": "human",
+                "value": "Is this the first lecture of the course?"
+            },
+            {
+                "from": "gpt",
+                "value": "No, this is the sixth lecture of the course."
+            },
+            {
+                "from": "human",
+                "value": "Which university is hosting this course?"
+            },
+            {
+                "from": "gpt",
+                "value": "The course is hosted by an institution with a crest resembling Peking University, but the logo isn't fully visible."
+            },
+            {
+                "from": "human",
+                "value": "What is the main application of Matrix Factorization in machine learning?"
+            },
+            {
+                "from": "gpt",
+                "value": "In machine learning, Matrix Factorization is often used for recommendation systems, where user-item interactions are approximated for prediction."
+            },
+            {
+                "from": "human",
+                "value": "Is Matrix Factorization a supervised learning method?"
+            },
+            {
+                "from": "gpt",
+                "value": "No, Matrix Factorization is typically an unsupervised learning method used for data dimensionality reduction or feature extraction."
+            },
+            {
+                "from": "human",
+                "value": "Can you explain the slide?"
+            },
+            {
+                "from": "gpt",
+                "value": "Let's talk about today's lecture. So, that we'll talk about the matrix factorization here."
+            }
+        ]
+    },
+    {
+        "id": "week_07_page_001",
+        "image": ".\\Images\\week_07\\week_07_page_001.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you summarise this slide?"
+            },
+            {
+                "from": "gpt",
+                "value": "It's the title slide for a lecture on clustering in a Machine Learning course (AIM 5005) taught by Dr. Youshan Zhang."
+            },
+            {
+                "from": "human",
+                "value": "What is the main topic of this lecture?"
+            },
+            {
+                "from": "gpt",
+                "value": "The main topic of this lecture is 'Clustering'."
+            },
+            {
+                "from": "human",
+                "value": "Who is the instructor for this lecture?"
+            },
+            {
+                "from": "gpt",
+                "value": "The instructor for this lecture is Dr. Youshan Zhang."
+            },
+            {
+                "from": "human",
+                "value": "What is the date of the lecture?"
+            },
+            {
+                "from": "gpt",
+                "value": "The date of the lecture is 03/01/2023."
+            },
+            {
+                "from": "human",
+                "value": "Is this an advanced lecture in the course?"
+            },
+            {
+                "from": "gpt",
+                "value": "It's the 7th lecture in the series, suggesting it's not introductory but specifics on its level aren't provided."
+            },
+            {
+                "from": "human",
+                "value": "What might be the prerequisites for this lecture?"
+            },
+            {
+                "from": "gpt",
+                "value": "Prerequisites might include basic machine learning concepts and earlier lectures in the AIM 5005 course."
+            },
+            {
+                "from": "human",
+                "value": "Which university is hosting this lecture?"
+            },
+            {
+                "from": "gpt",
+                "value": "The lecture is hosted by a university with a blue shield emblem, but the exact name isn't visible."
+            },
+            {
+                "from": "human",
+                "value": "Is clustering a supervised or unsupervised learning technique?"
+            },
+            {
+                "from": "gpt",
+                "value": "Clustering is an unsupervised learning technique."
+            },
+            {
+                "from": "human",
+                "value": "Why is clustering important in machine learning?"
+            },
+            {
+                "from": "gpt",
+                "value": "Clustering is crucial for discovering patterns, grouping data, and understanding the underlying structure."
+            },
+            {
+                "from": "human",
+                "value": "Could this lecture be part of a larger course series?"
+            },
+            {
+                "from": "gpt",
+                "value": "Yes, given it's labeled 'Lecture 7', it's likely part of a larger AIM 5005 Machine Learning course series."
+            },
+            {
+                "from": "human",
+                "value": "Can you explain the slide?"
+            },
+            {
+                "from": "gpt",
+                "value": "So today, what I'll talk clustering. So, in your mind, what is clustering? What`s clustering mean here? For example, in 5 groups, and we've got some data and for classification and want to write by some rules we could use this method."
+            }
+        ]
+    },
+    {
+        "id": "week_08_page_001",
+        "image": ".\\Images\\week_08\\week_08_page_001.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you summarise this slide?"
+            },
+            {
+                "from": "gpt",
+                "value": "The slide is titled 'AIM 5005 Machine Learning', indicating the subject of the course."
+            },
+            {
+                "from": "human",
+                "value": "What is the main topic of this lecture?"
+            },
+            {
+                "from": "gpt",
+                "value": "The main topic of this lecture is Gaussian Mixture Models (GMM)."
+            },
+            {
+                "from": "human",
+                "value": "Who is the instructor?"
+            },
+            {
+                "from": "gpt",
+                "value": "The instructor is Dr. Youshan Zhang."
+            },
+            {
+                "from": "human",
+                "value": "Is this a foundational or advanced topic?"
+            },
+            {
+                "from": "gpt",
+                "value": "Gaussian Mixture Models (GMM) is an advanced topic."
+            },
+            {
+                "from": "human",
+                "value": "List potential applications of GMM."
+            },
+            {
+                "from": "gpt",
+                "value": "Applications of GMM include clustering, image segmentation, and anomaly detection."
+            },
+            {
+                "from": "human",
+                "value": "What type of model is GMM?"
+            },
+            {
+                "from": "gpt",
+                "value": "GMM is a probabilistic model."
+            },
+            {
+                "from": "human",
+                "value": "Is GMM used for supervised or unsupervised learning?"
+            },
+            {
+                "from": "gpt",
+                "value": "GMM is used for unsupervised learning."
+            },
+            {
+                "from": "human",
+                "value": "Why is the lecture titled GMM?"
+            },
+            {
+                "from": "gpt",
+                "value": "The lecture is titled GMM because it focuses on Gaussian Mixture Models, a topic in machine learning."
+            },
+            {
+                "from": "human",
+                "value": "Give a brief overview of Gaussian Mixture Models."
+            },
+            {
+                "from": "gpt",
+                "value": "GMM is a probabilistic model used for clustering data by representing it as a combination of several Gaussian distributions."
+            },
+            {
+                "from": "human",
+                "value": "Can GMM handle multi-modal datasets?"
+            },
+            {
+                "from": "gpt",
+                "value": "Yes, GMM can handle multi-modal datasets as it represents data using multiple Gaussian distributions."
+            },
+            {
+                "from": "human",
+                "value": "Can you explain the slide?"
+            },
+            {
+                "from": "gpt",
+                "value": "So, today, we're gonna talk about another famous model about Gaussian Mixture models, also named the GMM model."
+            }
+        ]
+    },
+    {
+        "id": "week_09_page_001",
+        "image": ".\\Images\\week_09\\week_09_page_001.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you summarise this slide?"
+            },
+            {
+                "from": "gpt",
+                "value": "The slide is an introductory slide for AIM 5005 Machine Learning course. The lecture topic is 'K-Nearest Neighbor (KNN)' and the instructor is Dr. Youshan Zhang. The date mentioned is 03/15/2023."
+            },
+            {
+                "from": "human",
+                "value": "What is the main topic of this lecture?"
+            },
+            {
+                "from": "gpt",
+                "value": "The main topic of this lecture is 'K-Nearest Neighbor (KNN)'."
+            },
+            {
+                "from": "human",
+                "value": "Who is the instructor for this lecture?"
+            },
+            {
+                "from": "gpt",
+                "value": "The instructor for this lecture is Dr. Youshan Zhang."
+            },
+            {
+                "from": "human",
+                "value": "On what date is this lecture?"
+            },
+            {
+                "from": "gpt",
+                "value": "The lecture date is 03/15/2023."
+            },
+            {
+                "from": "human",
+                "value": "What can you infer about the AIM 5005 course?"
+            },
+            {
+                "from": "gpt",
+                "value": "AIM 5005 is a Machine Learning course, and it covers topics like K-Nearest Neighbor (KNN)."
+            },
+            {
+                "from": "human",
+                "value": "Why might K-Nearest Neighbor be an important topic?"
+            },
+            {
+                "from": "gpt",
+                "value": "K-Nearest Neighbor is a fundamental algorithm in machine learning, often used for classification tasks and as a starting point for learning ML concepts."
+            },
+            {
+                "from": "human",
+                "value": "What type of course is AIM 5005?"
+            },
+            {
+                "from": "gpt",
+                "value": "AIM 5005 is a Machine Learning course."
+            },
+            {
+                "from": "human",
+                "value": "What's the relevance of the shield symbol on the slide?"
+            },
+            {
+                "from": "gpt",
+                "value": "The shield symbol likely represents the university or institution's logo or emblem."
+            },
+            {
+                "from": "human",
+                "value": "How can K-Nearest Neighbor be applied in real-world scenarios?"
+            },
+            {
+                "from": "gpt",
+                "value": "K-Nearest Neighbor can be used in recommendation systems, image recognition, and classification of data based on similarity metrics."
+            },
+            {
+                "from": "human",
+                "value": "Imagine a scenario where a student asks Dr. Youshan Zhang about KNN's limitations."
+            },
+            {
+                "from": "gpt",
+                "value": "Dr. Zhang explains that KNN can be sensitive to irrelevant features, is computationally intensive for large datasets, and may not perform well with imbalanced data."
+            },
+            {
+                "from": "human",
+                "value": "Can you explain the slide?"
+            },
+            {
+                "from": "gpt",
+                "value": "This slide is talking about this is a machine learning course and today is lecture 9 which talks about k nearest neighbor algorithm, also called KNN. The professor is Youshan Zhang. the date is march 15th, 2023.  So then, let's try to discuss this lecture. So, today, we're going to talk about KNN. So, actually, if you want, talk about the KNN. I don't know whether you guys know about the use of ChatGPT is it just released the version 4 yesterday night.  can any one of you who has that or tries to have a version or do these systems experience? No. Yes or no. That's it. That's important. It's totally the same, but it is an upgrade. So previously, it was ChatGPT version of 3.5 turbo.  This time, they have upgraded to the version 4. You should have a better capacity, you know, is make a prediction, or make other. And also, even force for the image as an input for you. So previously, it can only input text.  But this time, you really complete with the multimodal data sets. So, actually, you can just input the images. In the demo, the issue that a bunch of which are kind of amazing, they can quickly write a website for me to give you my   image like that way.   And also, if you can find some strange document cannot picture the 1 that can find some strange voices during the picture.  To say which part is, not correct, not correct. Alright? I think you probably let's try to play some fun thing here. I'll try to integrate your homework and ChatGPT."
+            }
+        ]
+    },
+    {
+        "id": "week_10_page_001",
+        "image": ".\\Images\\week_10\\week_10_page_001.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you summarise this slide?"
+            },
+            {
+                "from": "gpt",
+                "value": "The slide introduces 'AIM 5005 Machine Learning' course's lecture on 'Decision Tree', conducted by Dr. Youshan Zhang."
+            },
+            {
+                "from": "human",
+                "value": "Who is the instructor for this lecture?"
+            },
+            {
+                "from": "gpt",
+                "value": "The instructor for this lecture is Dr. Youshan Zhang."
+            },
+            {
+                "from": "human",
+                "value": "What is the main topic of the lecture?"
+            },
+            {
+                "from": "gpt",
+                "value": "The main topic of the lecture is 'Decision Tree'."
+            },
+            {
+                "from": "human",
+                "value": "Is the decision tree a new topic in machine learning?"
+            },
+            {
+                "from": "gpt",
+                "value": "No, the decision tree is described as a famous traditional model in machine learning."
+            },
+            {
+                "from": "human",
+                "value": "How does the professor introduce the decision tree?"
+            },
+            {
+                "from": "gpt",
+                "value": "The professor introduces the decision tree by saying, 'Let's get started with today's lecture about the decision tree.'"
+            },
+            {
+                "from": "human",
+                "value": "Can you explain the slide?"
+            },
+            {
+                "from": "gpt",
+                "value": "Let's get started with today's lecture about the decision tree. So today, we're gonna talk about the decision tree. It's also one kind of famous tradition model, machine learning algorithm."
+            }
+        ]
+    },
+    {
+        "id": "week_11_page_001",
+        "image": ".\\Images\\week_11\\week_11_page_001.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you summarise this slide?"
+            },
+            {
+                "from": "gpt",
+                "value": "The slide introduces 'AIM 5005 Machine Learning' course's Lecture 11 on 'Support Vector Machines', taught by Dr. Youshan Zhang."
+            },
+            {
+                "from": "human",
+                "value": "What is the course code mentioned on the slide?"
+            },
+            {
+                "from": "gpt",
+                "value": "The course code mentioned is 'AIM 5005'."
+            },
+            {
+                "from": "human",
+                "value": "Which lecture number is this?"
+            },
+            {
+                "from": "gpt",
+                "value": "This is Lecture 11."
+            },
+            {
+                "from": "human",
+                "value": "Who is the instructor for this course?"
+            },
+            {
+                "from": "gpt",
+                "value": "The instructor for this course is Dr. Youshan Zhang."
+            },
+            {
+                "from": "human",
+                "value": "What is the main topic of this lecture?"
+            },
+            {
+                "from": "gpt",
+                "value": "The main topic of this lecture is 'Support Vector Machines'."
+            },
+            {
+                "from": "human",
+                "value": "Is there a university logo on the slide?"
+            },
+            {
+                "from": "gpt",
+                "value": "Yes, there is a university logo at the top of the slide."
+            },
+            {
+                "from": "human",
+                "value": "What can you infer about the content of this lecture?"
+            },
+            {
+                "from": "gpt",
+                "value": "The lecture likely covers the principles and applications of Support Vector Machines in machine learning."
+            },
+            {
+                "from": "human",
+                "value": "What kind of machine learning algorithm is discussed in this lecture?"
+            },
+            {
+                "from": "gpt",
+                "value": "Support Vector Machines (SVM) is the algorithm discussed in this lecture."
+            },
+            {
+                "from": "human",
+                "value": "Why might SVMs be an important topic in machine learning?"
+            },
+            {
+                "from": "gpt",
+                "value": "SVMs are important due to their effectiveness in high-dimensional spaces and their versatility in classification and regression tasks."
+            },
+            {
+                "from": "human",
+                "value": "Describe the design of the slide in a creative manner."
+            },
+            {
+                "from": "gpt",
+                "value": "An academic gateway, crowned with a university emblem, invites learners to the realm of Support Vector Machines, guided by Dr. Zhang."
+            },
+            {
+                "from": "human",
+                "value": "Can you explain the slide?"
+            },
+            {
+                "from": "gpt",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "week_14_page_001",
+        "image": ".\\Images\\week_14\\week_14_page_001.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you summarise this slide?"
+            },
+            {
+                "from": "gpt",
+                "value": "The slide introduces Lecture 14 of the AIM 5005 Machine Learning course, which focuses on the Vision Transformer (ViT). The instructor is Dr. Youshan Zhang."
+            },
+            {
+                "from": "human",
+                "value": "Who is the instructor for this lecture?"
+            },
+            {
+                "from": "gpt",
+                "value": "The instructor for this lecture is Dr. Youshan Zhang."
+            },
+            {
+                "from": "human",
+                "value": "What is the main topic of Lecture 14?"
+            },
+            {
+                "from": "gpt",
+                "value": "The main topic of Lecture 14 is the Vision Transformer (ViT)."
+            },
+            {
+                "from": "human",
+                "value": "Which course is this slide from?"
+            },
+            {
+                "from": "gpt",
+                "value": "This slide is from the AIM 5005 Machine Learning course."
+            },
+            {
+                "from": "human",
+                "value": "Is this lecture related to Vision Transformer?"
+            },
+            {
+                "from": "gpt",
+                "value": "Yes, this lecture is related to Vision Transformer (ViT)."
+            },
+            {
+                "from": "human",
+                "value": "What can you infer about Dr. Youshan Zhang?"
+            },
+            {
+                "from": "gpt",
+                "value": "Dr. Youshan Zhang is the instructor for this course's Lecture 14 on Vision Transformer."
+            },
+            {
+                "from": "human",
+                "value": "Is this the first lecture of the course?"
+            },
+            {
+                "from": "gpt",
+                "value": "No, this is the 14th lecture of the course."
+            },
+            {
+                "from": "human",
+                "value": "Give a brief about Vision Transformer."
+            },
+            {
+                "from": "gpt",
+                "value": "The Vision Transformer (ViT) is a neural network architecture that applies transformers, primarily used for NLP, to computer vision tasks."
+            },
+            {
+                "from": "human",
+                "value": "What type of machine learning is being discussed?"
+            },
+            {
+                "from": "gpt",
+                "value": "The lecture discusses a type of machine learning related to computer vision, specifically the Vision Transformer."
+            },
+            {
+                "from": "human",
+                "value": "Suggest a possible next topic after Vision Transformer."
+            },
+            {
+                "from": "gpt",
+                "value": "A possible next topic after Vision Transformer could be 'Applications of ViT in real-world scenarios'."
+            },
+            {
+                "from": "human",
+                "value": "Can you explain the slide?"
+            },
+            {
+                "from": "gpt",
+                "value": "No. If no, lets get start today's lecture.  So, actually, in my original state of first, I will talk about I should talk about neural network in this week. However, you guys already learned neural network in my another neural network course.  Right? And just for 1 person student that Minghao probably didn't know this course. So later, I will send a lecture to you, you can take a look at neural network content.  So in this case, I would like to introduce and advanced topic. That is part of vision transformer. In tomorrow's class, I mentioned a little bit about vision transformer. Right? Did I mention? So vision transformer. Did I mention it?  No idea? So then that you remember that I mentioned it? No. did anyone remember? No. Not at all? Vision transformer is for vision task and it use a specific method to process the image. Exactly. So, actually, I introduce you a little bit about the vision transformer, in our cl;ass for image classification task.  I did not inform too many details. So fortunately, today, you guys will learn more about this standard of vision transformer model.  And then you will have another chance to implement it."
+            }
+        ]
+    },
+    {
+        "id": "week_15_page_001",
+        "image": ".\\Images\\week_15\\week_15_page_001.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you summarise this slide?"
+            },
+            {
+                "from": "gpt",
+                "value": "The slide introduces a course titled 'AIM 5005 Machine Learning'. The specific lecture is 'Ensemble Learning', and the instructor is Dr. Youshan Zhang."
+            },
+            {
+                "from": "human",
+                "value": "What is the course code?"
+            },
+            {
+                "from": "gpt",
+                "value": "The course code is 'AIM 5005'."
+            },
+            {
+                "from": "human",
+                "value": "Who is the instructor for this lecture?"
+            },
+            {
+                "from": "gpt",
+                "value": "The instructor for this lecture is Dr. Youshan Zhang."
+            },
+            {
+                "from": "human",
+                "value": "What topic is being covered in Lecture 15?"
+            },
+            {
+                "from": "gpt",
+                "value": "Lecture 15 covers the topic of 'Ensemble Learning'."
+            },
+            {
+                "from": "human",
+                "value": "Which university does this slide represent?"
+            },
+            {
+                "from": "gpt",
+                "value": "The university logo displayed on the slide represents 'Peking University'."
+            },
+            {
+                "from": "human",
+                "value": "Can you suggest a related topic to 'Ensemble Learning'?"
+            },
+            {
+                "from": "gpt",
+                "value": "A related topic to 'Ensemble Learning' could be 'Boosting'."
+            },
+            {
+                "from": "human",
+                "value": "What's the primary subject of this course?"
+            },
+            {
+                "from": "gpt",
+                "value": "The primary subject of this course is 'Machine Learning'."
+            },
+            {
+                "from": "human",
+                "value": "What could 'Ensemble Learning' entail?"
+            },
+            {
+                "from": "gpt",
+                "value": "Ensemble Learning might involve combining multiple models to improve prediction accuracy or reduce overfitting."
+            },
+            {
+                "from": "human",
+                "value": "How does ensemble learning differ from traditional ML techniques?"
+            },
+            {
+                "from": "gpt",
+                "value": "Ensemble learning combines multiple models for better results, while traditional ML uses a single model."
+            },
+            {
+                "from": "human",
+                "value": "Why might ensemble methods be used in machine learning?"
+            },
+            {
+                "from": "gpt",
+                "value": "Ensemble methods might be used to enhance model accuracy, robustness, and reduce overfitting."
+            },
+            {
+                "from": "human",
+                "value": "Can you explain the slide?"
+            },
+            {
+                "from": "gpt",
+                "value": "As you can see here today, we will talk about ensemble learning here."
+            }
+        ]
+    },
+    {
+        "id": "week_16_page_001",
+        "image": ".\\Images\\week_16\\week_16_page_001.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you summarise this slide?"
+            },
+            {
+                "from": "gpt",
+                "value": "The slide introduces a course titled 'AIM 5005 Machine Learning'. The specific lecture is 'Conclusion', and the instructor is Dr. Youshan Zhang."
+            },
+            {
+                "from": "human",
+                "value": "What is the title of Lecture 16?"
+            },
+            {
+                "from": "gpt",
+                "value": "The title of Lecture 16 is 'Conclusion'."
+            },
+            {
+                "from": "human",
+                "value": "Who is responsible for teaching this lecture?"
+            },
+            {
+                "from": "gpt",
+                "value": "Dr. Youshan Zhang is responsible for teaching this lecture."
+            },
+            {
+                "from": "human",
+                "value": "Which lecture number is this in the course?"
+            },
+            {
+                "from": "gpt",
+                "value": "This is the 16th lecture in the course."
+            },
+            {
+                "from": "human",
+                "value": "Which university's emblem is displayed on the slide?"
+            },
+            {
+                "from": "gpt",
+                "value": "The emblem displayed on the slide belongs to 'Peking University'."
+            },
+            {
+                "from": "human",
+                "value": "What is the significance of a 'Conclusion' lecture?"
+            },
+            {
+                "from": "gpt",
+                "value": "A 'Conclusion' lecture summarizes key points, reviews topics covered, and possibly offers future directions."
+            },
+            {
+                "from": "human",
+                "value": "Which main subject is this slide associated with?"
+            },
+            {
+                "from": "gpt",
+                "value": "This slide is associated with the subject 'Machine Learning'."
+            },
+            {
+                "from": "human",
+                "value": "What might be discussed in a conclusion lecture of a Machine Learning course?"
+            },
+            {
+                "from": "gpt",
+                "value": "It might recap main algorithms, techniques, and methodologies, and discuss emerging trends in ML."
+            },
+            {
+                "from": "human",
+                "value": "How does this lecture differ from previous ones?"
+            },
+            {
+                "from": "gpt",
+                "value": "This lecture likely wraps up the course, summarizing main points and highlighting key takeaways."
+            },
+            {
+                "from": "human",
+                "value": "What could be a next step after this 'Conclusion' lecture?"
+            },
+            {
+                "from": "gpt",
+                "value": "A next step could be advanced ML topics, real-world project implementations, or specialized workshops."
+            },
+            {
+                "from": "human",
+                "value": "Can you explain the slide?"
+            },
+            {
+                "from": "gpt",
+                "value": "So, this week should be the last class, by next week you guys need to prepare a short presentation about the final project and by the next Friday you need to submit everything."
+            }
+        ]
+    }
+]
